@@ -9,7 +9,7 @@ The **Just Another Text Editor** Progressive Web Application is a text editor mu
 ![App Screenshot](./images/screenshot.png)
 
 ## Installation
-* Click the install button on the left-hand side of the banner or the download link icon in the right end of the browser's address bar:  ![Download Icon](./images/download%20icon.png)
+* [From the web app](https://afternoon-river-10125-70400daa5ffb.herokuapp.com/), click the install button on the left-hand side of the banner or the download link icon in the right end of the browser's address bar:  ![Download Icon](./images/download%20icon.png)
 * An icon will be added to your desktop.
 
 ## Usage
