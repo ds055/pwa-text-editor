@@ -17,9 +17,9 @@ N/A
 * Navigate to the site [with this link](https://afternoon-river-10125-70400daa5ffb.herokuapp.com/)
 * Erase the existing title text if you choose.
 * Type in whatever text you'd like.
-* When you're ready to save, click off the command line to unfocus from the program, which will save your data.
+* When you're ready to save, click off the in-browser command line to unfocus from the program, which will save your data.
 * When you reload or visit the page again, you'll find the text you've written previously is still there!
-* For easier access, you can download this PWA to your desktop by either clicking the **Install** button on the top left side of the page, or you can click the download link in the address bar of the browser
+* For easier access, you can download this PWA to your desktop by either clicking the **Install** button on the top left side of the page banner, or you can click the download link icon in the address bar of the browser ![Download Icon](./images/download%20icon.png) 
 
 ### From the GitHub Repo
 * Download the program files to computer.
